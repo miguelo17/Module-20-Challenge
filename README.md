@@ -9,9 +9,10 @@ In this section, we describe the analysis completed for the machine learning mod
   The csv contain financial information in the columns like loan_size', 'interest_rate', 'borrower_income', 'debt_to_income'
   
 # Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-   loan_status
-   0    75036
-   1     2500
+
+loan_status
+0    75036
+1     2500
   
 # Describe the stages of the machine learning process you went through as part of this analysis.
    Identified correlations between features and loan status.
